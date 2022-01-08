@@ -1,0 +1,62 @@
+ .image {
+    height: 35vh;
+    width: 20vw;
+} 
+
+ .container-top{
+    margin-top: 2rem;
+    
+}
+
+/* .px-4{
+    display: flex;
+    flex-direction: row;
+}  */
+
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.nftclass{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.p-4{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: -1rem;
+}
+
+.buybtn{
+    height: 4vh;
+    width: 15vw;
+    margin-top: .5rem;
+    margin-left: .2rem;
+    font-size: 1rem;
+}
+
+.p-5{
+    display: flex;
+    flex-direction: row;
+    margin-top: -3rem;
+
+}
+
+/* App.js */
+
+.mt-4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.create-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
